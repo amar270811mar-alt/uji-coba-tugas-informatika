@@ -5,6 +5,12 @@ Selamat datang di repository tugas Informatika.
 
 Repository ini digunakan untuk mengumpulkan tugas individu berupa perancangan algoritma menggunakan pseudocode dan implementasinya dalam bahasa pemrograman C++.
 
+### 🚀 Compiler C++
+
+Klik tautan berikut untuk menulis, menjalankan, dan menguji program C++ langsung melalui browser.
+
+[**🚀 BUKA COMPILER C++**](https://heruruhanda.github.io/uji-coba-tugas-informatika/)
+
 ---
 
 ## A. IDENTITAS SISWA
