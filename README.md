@@ -9,7 +9,9 @@ Repository ini digunakan untuk mengumpulkan tugas individu berupa perancangan al
 
 Klik tautan berikut untuk menulis, menjalankan, dan menguji program C++ langsung melalui browser.
 
-[**🚀 BUKA COMPILER C++**](https://heruruhanda.github.io/uji-coba-tugas-informatika/)
+<a href="https://heruruhanda.github.io/uji-coba-tugas-informatika/" target="_blank" rel="noopener noreferrer">
+  🚀 BUKA COMPILER C++
+</a>
 
 ---
 
